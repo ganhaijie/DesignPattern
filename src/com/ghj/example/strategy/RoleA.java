@@ -6,7 +6,7 @@ public class RoleA extends Role {
         this.name = name;
     }
 
-    @Override
+    /*@Override
     protected void display() {
         System.out.println("样子1");
     }
@@ -24,5 +24,5 @@ public class RoleA extends Role {
     @Override
     protected void defend() {
         System.out.println("铁头功");
-    }
+    }*/
 }
